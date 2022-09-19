@@ -20,3 +20,6 @@
 ![Review ID Table pgAdmin](Review_ID_Table_pgAdmin.png)
 ###### Vine Table in pgAdmin (first 10 rows):
 ![Vine Table pgAdmin](Vine_Table_pgAdmin.png)
+## Deliverable 2: Determine Bias of Vine Reviews (40 points)
+##### Filtered Vine table with 20 or more votes:
+![Vine Table DataFrame_20 reviews](Vine_Table_DataFrame_20reviews_5pt.png)
