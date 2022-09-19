@@ -11,5 +11,6 @@
 ![Review_ID Table DataFrame](Review_ID_Table_DataFrame_5pt.png)
 ##### Vine Table:
 ![Vine Table DataFrame](Vine_Table_DataFrame_5pt.png)
-### Four DataFrames loaded into respective tables in pgAdmin
+### (20 points) Four DataFrames loaded into respective tables in pgAdmin
+###### Customers Table in pgAdmin (first 10 rows)
 ![Customer Table pgAdmin](Customers_Table_pgAdmin.png)
