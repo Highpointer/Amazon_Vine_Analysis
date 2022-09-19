@@ -29,3 +29,5 @@
 ![Vine Table DataFrame_20 reviews_50pct_paid](Vine_Table_DataFrame_50pct_Paid_5pt.png)
 ##### Filtered Vine table where review is unpaid (not written as part of Vine program):
 ![Vine Table DataFrame_20 reviews_50pct_unpaid](Vine_Table_DataFrame_50pct_Unpaid_5pt.png)
+##### Comparison of paid (Vine) reviews versus unpaid reviews
+![Paid](Paid.png)![Unpaid](Unpaid.png)
