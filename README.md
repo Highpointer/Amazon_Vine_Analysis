@@ -23,3 +23,5 @@
 ## Deliverable 2: Determine Bias of Vine Reviews (40 points)
 ##### Filtered Vine table with 20 or more votes:
 ![Vine Table DataFrame_20 reviews](Vine_Table_DataFrame_20reviews_5pt.png)
+##### Filtered Vine table with 20 or more votes, and ratio of helpful votes to total votes is greater than or equal to 50%:
+![Vine Table DataFrame_20 reviews_50pct](Vine_Table_DataFrame_50percent_5pt.png)
