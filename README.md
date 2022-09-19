@@ -25,3 +25,7 @@
 ![Vine Table DataFrame_20 reviews](Vine_Table_DataFrame_20reviews_5pt.png)
 ##### Filtered Vine table with 20 or more votes, and ratio of helpful votes to total votes is greater than or equal to 50%:
 ![Vine Table DataFrame_20 reviews_50pct](Vine_Table_DataFrame_50percent_5pt.png)
+##### Filtered Vine table where review is paid (written as part of Vine program):
+![Vine Table DataFrame_20 reviews_50pct_paid](Vine_Table_DataFrame_50pct_Paid_5pt.png)
+##### Filtered Vine table where review is unpaid (not written as part of Vine program):
+![Vine Table DataFrame_20 reviews_50pct_unpaid](Vine_Table_DataFrame_50pct_Unpaid_5pt.png)
