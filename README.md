@@ -36,4 +36,4 @@ The table on the right shows that there were 39,869 unpaid reviews. Of these 39,
 ## Deliverable 3: A Written Report on the Analysis (20 points)
 The purpose of this analysis was to analyze the results of reviews of Amazon's Outdoor dataset, comparing reviews of the paid Vine program with reviews submitted by unpaid reviewers.
 
-In the Outdoor dataset, there were 
+To pick reviews that would be most helpful to the analysis, only reviews with 20 or more votes were initially considered for this study. These reviews were further filtered to eliminate reviews where the ratio of helpful votes to total votes was less than 50%.  This resulted in selecting 39,976 rows. Of these rows, only 107 were part of the Vine paid reviews, with the remaining 39,869  being unpaid reviews.
