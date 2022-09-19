@@ -33,3 +33,5 @@
 ![Paid](Paid.png)  ![Unpaid](Unpaid.png)</p>
 The table on the left shows that there were 107 paid reviews that were part of the Vine program. Of these 107 reviews, 56, or 52.3%, were 5-star reviews.
 The table on the right shows that there were 39,869 unpaid reviews. Of these 39,869 reviews, 21,005, or 52.7%, were 5-star reviews.
+## Deliverable 3: A Written Report on the Analysis (20 points)
+The purpose of this analysis 
