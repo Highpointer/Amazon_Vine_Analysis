@@ -29,5 +29,7 @@
 ![Vine Table DataFrame_20 reviews_50pct_paid](Vine_Table_DataFrame_50pct_Paid_5pt.png)
 ##### Filtered Vine table where review is unpaid (not written as part of Vine program):
 ![Vine Table DataFrame_20 reviews_50pct_unpaid](Vine_Table_DataFrame_50pct_Unpaid_5pt.png)
-##### Comparison of paid (Vine) reviews versus unpaid reviews
-![Paid](Paid.png)![Unpaid](Unpaid.png)
+##### Comparison of paid (Vine) reviews versus unpaid reviews:
+![Paid](Paid.png)  ![Unpaid](Unpaid.png)
+The table on the left shows that there were 107 paid reviews that were part of the Vine program. Of these 107 reviews, 56, or 52.3%, were 5-star reviews.
+The table on the right shows that there were 39,869 unpaid reviews. Of these 39,869 reviews, 21,005, or 52.7%, were 5-star reviews.
