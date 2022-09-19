@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis: Module 16
-## Deliverable 1
+## Deliverable 1: Perform ETL on Amazon Product Reviews (40 points)
 ### (10 points) Here is the Amazon Review dataset extracted as a DataFrame
 ![Amazon Review dataset as DataFrame](Amazon_Review_dataset_extracted_DataFrame_10pt.png)
 ### (20 points) Extracted dataset transformed into four DataFrames
