@@ -42,8 +42,7 @@ This resulted in selecting 39,976 rows. Of these rows, 107, or 0.27%, were part 
 
 Of the 107 paid Vine reviews, 56 were 5-star reviews, for a percentage of 52.3%. Of the 39,869 unpaid reviews, 21,005 were 5-star reviews, for a percentage of 52.7%.
 
-Based on the data above, there does not appear to be any positivity bias for reviews in the Vine program.
-
+Based on the data above, there does not appear to be any positivity bias for reviews in the Vine program. The difference in the percentages is less than 0.5%.
 We observe bigger apparent differences in percentages of negative reviews, 1- or 2-star reviews. Of the 107 paid Vine reviews, only 3 out of the 107 were 1- or 2-star reviews, for a percentage of 2.7%. Of the 39,869 unpaid reviews, a significantly higher percentage, or 19.4%, were 1- or 2-star reviews.
 
 We would recommend an additional analysis to determine if there is a significant negativity analysis (in contrast to positivity analysis) comparing unpaid reviews with reviews in the paid Vine program.
